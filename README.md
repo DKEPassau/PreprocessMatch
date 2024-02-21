@@ -13,7 +13,7 @@ This repository is organized into the following directories:
 To execute a specific experiment on a particular dataset, follow this command:
 
 ```bash
-bashCopy code
+
 python pipeline.py <dataset> <experiment>
 
 ```
