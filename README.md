@@ -4,10 +4,11 @@ This repository is organized into the following directories:
 
 - **Wikidata**: 🌐 Includes scripts relevant to conducting experiments on the Wikidata tables dataset.
 - **BioDiv**: 🌿 Contains scripts related to running experiments on the Biodiversity tables dataset.
-- **tFood**: 🍽️ Houses scripts pertinent to running experiments on the tFood tables dataset.
-- All folders contain respective Jupyter notebooks for functional analysis and Experiment analysis.
+- **tFood**: 🍽️ It has scripts pertinent to running experiments on the tFood tables dataset.
 
-## **How to Run 🏃‍♂️**
+- 📑 All folders contain respective Jupyter notebooks for functional analysis and Experiment analysis.
+
+## **How to Run 💻👨‍💻👩‍💻**
 
 To execute a specific experiment on a particular dataset, follow this command:
 
