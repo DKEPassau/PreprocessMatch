@@ -10,7 +10,7 @@ This repository is organized into the following directories:
 
 ## **How to Run 💻👨‍💻👩‍💻**
 
-To execute a specific experiment on a particular dataset, follow this command:
+To execute a specific experiment on a particular dataset, follow this command::
 
 ```bash
 
