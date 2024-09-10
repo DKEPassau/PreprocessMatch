@@ -12,7 +12,7 @@ import Wikidata.CEA_Wikidata_third_experiment as CEA_Wikidata_third_experiment
 import Wikidata.CEA_Wikidata_second_experiment as CEA_Wikidata_second_experiment
 import Wikidata.CEA_Wikidata_first_experiment as CEA_Wikidata_first_experiment
 
-
+# Following are some imortant pipeline functions 
 def run_experiment(dataset, experiment):
     # Check if dataset and experiment arguments are provided and have valid values
     # Add your valid dataset names
