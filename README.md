@@ -22,3 +22,5 @@ Replace **`<dataset>`** and **`<experiment>`** with the following values:
 
 - **Dataset:** Choose one of the following options: "wikidata", "biodiv", or "tfood".
 - **Experiment:** Select from the following options: "first", "second", or "third".
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
